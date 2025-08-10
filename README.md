@@ -3,3 +3,4 @@ My Vision Board is a powerful visual tool that helps you clarify your dreams and
 
 Screenshot (414).png
 Screenshot (415).png
+ ![Screenshot (414).png]
